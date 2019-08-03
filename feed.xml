@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>GITARA &amp; FINGERSTYLE</title>
-    <link href="https://gitarafreestyle.githum.io/gitara/feed.xml" rel="self" />
-    <link href="https://gitarafreestyle.githum.io/gitara" />
-    <updated>2019-08-03T15:36:14+02:00</updated>
+    <link href="https://gitarafreestyle.github.io/gitara/feed.xml" rel="self" />
+    <link href="https://gitarafreestyle.github.io/gitara" />
+    <updated>2019-08-03T15:38:13+02:00</updated>
     <author>
         <name>Kamil Kołak</name>
     </author>
-    <id>https://gitarafreestyle.githum.io/gitara</id>
+    <id>https://gitarafreestyle.github.io/gitara</id>
 
     <entry>
         <title>Rytm shuffle</title>
         <author>
             <name>Kamil Kołak</name>
         </author>
-        <link href="https://gitarafreestyle.githum.io/gitara/pierwszy-post.html"/>
-        <id>https://gitarafreestyle.githum.io/gitara/pierwszy-post.html</id>
+        <link href="https://gitarafreestyle.github.io/gitara/pierwszy-post.html"/>
+        <id>https://gitarafreestyle.github.io/gitara/pierwszy-post.html</id>
 
         <updated>2019-07-10T21:21:59+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://gitarafreestyle.githum.io/gitara/media/posts/1/shuffle640x427.jpg" alt="" />
+                        <img src="https://gitarafreestyle.github.io/gitara/media/posts/1/shuffle640x427.jpg" alt="" />
                     // Przykład 12 taktowego bluesa Podkład mp3 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gitarafreestyle.githum.io/gitara/media/posts/1/shuffle640x427.jpg" alt="" />
+                    <img src="https://gitarafreestyle.github.io/gitara/media/posts/1/shuffle640x427.jpg" alt="" />
                 <script language="javascript" type="text/javascript">// <![CDATA[
 // You can place JavaScript like this
 
