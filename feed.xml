@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>GITARA &amp; FINGERSTYLE</title>
+    <link href="https://gitarafreestyle.githum.io/gitara/feed.xml" rel="self" />
+    <link href="https://gitarafreestyle.githum.io/gitara" />
+    <updated>2019-08-03T15:36:14+02:00</updated>
+    <author>
+        <name>Kamil Kołak</name>
+    </author>
+    <id>https://gitarafreestyle.githum.io/gitara</id>
+
+    <entry>
+        <title>Rytm shuffle</title>
+        <author>
+            <name>Kamil Kołak</name>
+        </author>
+        <link href="https://gitarafreestyle.githum.io/gitara/pierwszy-post.html"/>
+        <id>https://gitarafreestyle.githum.io/gitara/pierwszy-post.html</id>
+
+        <updated>2019-07-10T21:21:59+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gitarafreestyle.githum.io/gitara/media/posts/1/shuffle640x427.jpg" alt="" />
+                    // Przykład 12 taktowego bluesa Podkład mp3 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gitarafreestyle.githum.io/gitara/media/posts/1/shuffle640x427.jpg" alt="" />
+                <script language="javascript" type="text/javascript">// <![CDATA[
+// You can place JavaScript like this
+
+haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
+if (haslo != "shu#100")
+{
+alert("Niepoprawne hasło")
+location.href='http://www.siedlce.mscdn.pl/materialy-do-pobrania-menu';
+}
+// ]]></script>
+<p> Przykład 12 taktowego bluesa</p>
+<h2 id="mcetoc_1dfef7coi0"><strong>||: A | D | A | A | D | D | A | A | E | D | A | A (E) :||</strong></h2>
+<p> </p>
+<p>Podkład mp3</p>
+<p> </p>
+<figure class="post__adui"><audio controls="controls" src="C:\Users\Dell\Music\zdrowa-woda_demo.mp3" ></audio></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

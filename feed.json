@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GITARA &amp; FINGERSTYLE",
+    "description": "",
+    "home_page_url": "https://gitarafreestyle.githum.io/gitara",
+    "feed_url": "https://gitarafreestyle.githum.io/gitara/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kamil Kołak"
+    },
+    "items": [
+        {
+            "id": "https://gitarafreestyle.githum.io/gitara/pierwszy-post.html",
+            "url": "https://gitarafreestyle.githum.io/gitara/pierwszy-post.html",
+            "title": "Rytm shuffle",
+            "summary": "// Przykład 12 taktowego bluesa Podkład mp3 ",
+            "content_html": "<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"shu#100\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='http://www.siedlce.mscdn.pl/materialy-do-pobrania-menu';\n}\n// ]]></script>\n<p> Przykład 12 taktowego bluesa</p>\n<h2 id=\"mcetoc_1dfef7coi0\"><strong>||: A | D | A | A | D | D | A | A | E | D | A | A (E) :||</strong></h2>\n<p> </p>\n<p>Podkład mp3</p>\n<p> </p>\n<figure class=\"post__adui\"><audio controls=\"controls\" src=\"C:\\Users\\Dell\\Music\\zdrowa-woda_demo.mp3\" ></audio></figure>",
+            "image": "https://gitarafreestyle.githum.io/gitara/media/posts/1/shuffle640x427.jpg",
+            "author": {
+                "name": "Kamil Kołak"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-15T11:15:07+02:00",
+            "date_modified": "2019-07-10T21:21:59+02:00"
+        }
+    ]
+}
