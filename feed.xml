@@ -3,12 +3,48 @@
     <title>GITARA &amp; FreeSTYLE</title>
     <link href="https://gitarafreestyle.github.io/feed.xml" rel="self" />
     <link href="https://gitarafreestyle.github.io" />
-    <updated>2019-08-05T18:22:45+02:00</updated>
+    <updated>2019-08-05T22:28:07+02:00</updated>
     <author>
         <name>gitarafreestyle</name>
     </author>
     <id>https://gitarafreestyle.github.io</id>
 
+    <entry>
+        <title>Gitarowe ABC</title>
+        <author>
+            <name>gitarafreestyle</name>
+        </author>
+        <link href="https://gitarafreestyle.github.io/gitarowe-abc.html"/>
+        <id>https://gitarafreestyle.github.io/gitarowe-abc.html</id>
+
+        <updated>2019-08-05T22:27:11+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gitarafreestyle.github.io/media/posts/4/gitarowe-abc.jpg" alt="" />
+                    <p> </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gitarafreestyle.github.io/media/posts/4/gitarowe-abc.jpg" alt="" />
+                <p> </p>
+
+<script language="javascript" type="text/javascript">// <![CDATA[
+<br>// <![CDATA[
+// You can place JavaScript like this
+
+haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
+if (haslo != "5lT7i")
+{
+alert("Niepoprawne hasło")
+location.href='https://gitarafreestyle.github.io';
+}
+// ]]></script>
+<p><a href="https://gitarafreestyle.github.io/Gitarowe-ABC.pdf">Książka</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Podstawy harmonijki ustnej</title>
         <author>
@@ -17,7 +53,7 @@
         <link href="https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html"/>
         <id>https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html</id>
 
-        <updated>2019-08-05T18:20:36+02:00</updated>
+        <updated>2019-08-05T22:17:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gitarafreestyle.github.io/media/posts/3/harmonijka3x2.jpg" alt="" />
@@ -34,7 +70,7 @@
 // You can place JavaScript like this
 
 haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
-if (haslo != "shu#100")
+if (haslo != "5lT7i")
 {
 alert("Niepoprawne hasło")
 location.href='https://gitarafreestyle.github.io';
@@ -52,7 +88,7 @@ location.href='https://gitarafreestyle.github.io';
         <link href="https://gitarafreestyle.github.io/pierwszy-post.html"/>
         <id>https://gitarafreestyle.github.io/pierwszy-post.html</id>
 
-        <updated>2019-08-05T18:02:29+02:00</updated>
+        <updated>2019-08-05T22:16:23+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gitarafreestyle.github.io/media/posts/1/shuffle640x427.jpg" alt="" />
@@ -66,7 +102,7 @@ location.href='https://gitarafreestyle.github.io';
 // You can place JavaScript like this
 
 haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
-if (haslo != "shu#100")
+if (haslo != "5lT7i")
 {
 alert("Niepoprawne hasło")
 location.href='https://gitarafreestyle.github.io';
