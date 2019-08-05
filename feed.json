@@ -14,7 +14,7 @@
             "url": "https://gitarafreestyle.github.io/gitarowe-abc.html",
             "title": "Gitarowe ABC",
             "summary": "<p> </p>\n",
-            "content_html": "<p> </p>\n\n<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"5lT7i\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<p><a href=\"https://gitarafreestyle.github.io/ksVLWnPbi5iabc.pdf\">Książka</a></p>",
+            "content_html": "<p> </p>\n\n<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"bRF1GDL5OopRTbWwO5tG\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<p><a href=\"https://gitarafreestyle.github.io/ksVLWnPbi5iabc.pdf\">Książka</a></p>",
             "image": "https://gitarafreestyle.github.io/media/posts/4/gitarowe-abc.jpg",
             "author": {
                 "name": "gitarafreestyle"
@@ -22,14 +22,14 @@
             "tags": [
             ],
             "date_published": "2019-08-05T18:57:16+02:00",
-            "date_modified": "2019-08-05T22:52:32+02:00"
+            "date_modified": "2019-08-05T23:03:11+02:00"
         },
         {
             "id": "https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html",
             "url": "https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html",
             "title": "Podstawy harmonijki ustnej",
             "summary": "<p> </p>\n",
-            "content_html": "<p> </p>\n\n<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"5lT7i\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<a href=\"https://gitarafreestyle.github.io/ksfEHRBsGQSblues.pdf\">Książka</a>",
+            "content_html": "<p> </p>\n\n<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"bRF1GDL5OopRTbWwO5tG\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<a href=\"https://gitarafreestyle.github.io/ksfEHRBsGQSblues.pdf\">Książka</a>",
             "image": "https://gitarafreestyle.github.io/media/posts/3/harmonijka3x2.jpg",
             "author": {
                 "name": "gitarafreestyle"
@@ -37,14 +37,14 @@
             "tags": [
             ],
             "date_published": "2019-08-05T16:15:06+02:00",
-            "date_modified": "2019-08-05T22:52:58+02:00"
+            "date_modified": "2019-08-05T23:03:31+02:00"
         },
         {
             "id": "https://gitarafreestyle.github.io/pierwszy-post.html",
             "url": "https://gitarafreestyle.github.io/pierwszy-post.html",
             "title": "Rytm shuffle",
             "summary": "// Przykład 12 taktowego bluesa Podkład mp3 ",
-            "content_html": "<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"5lT7i\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<p> Przykład 12 taktowego bluesa</p>\n<h2 id=\"mcetoc_1dfef7coi0\"><strong>||: A | D | A | A | D | D | A | A | E | D | A | A (E) :||</strong></h2>\n<p> </p>\n<p>Podkład mp3</p>\n<p> </p>\n<figure class=\"post__adui\"><audio controls=\"controls\" src=\"C:\\Users\\Dell\\Music\\zdrowa-woda_demo.mp3\" ></audio></figure>",
+            "content_html": "<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"bRF1GDL5OopRTbWwO5tG\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<p> Przykład 12 taktowego bluesa</p>\n<h2 id=\"mcetoc_1dfef7coi0\"><strong>||: A | D | A | A | D | D | A | A | E | D | A | A (E) :||</strong></h2>\n<p> </p>\n<p>Podkład mp3</p>\n<p> </p>\n<figure class=\"post__adui\"><audio controls=\"controls\" src=\"C:\\Users\\Dell\\Music\\zdrowa-woda_demo.mp3\" ></audio></figure>",
             "image": "https://gitarafreestyle.github.io/media/posts/1/shuffle640x427.jpg",
             "author": {
                 "name": "gitarafreestyle"
@@ -52,7 +52,7 @@
             "tags": [
             ],
             "date_published": "2019-04-15T11:15:07+02:00",
-            "date_modified": "2019-08-05T22:16:23+02:00"
+            "date_modified": "2019-08-05T23:03:43+02:00"
         }
     ]
 }

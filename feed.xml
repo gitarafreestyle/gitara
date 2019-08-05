@@ -3,7 +3,7 @@
     <title>GITARA &amp; FreeSTYLE</title>
     <link href="https://gitarafreestyle.github.io/feed.xml" rel="self" />
     <link href="https://gitarafreestyle.github.io" />
-    <updated>2019-08-05T22:57:39+02:00</updated>
+    <updated>2019-08-05T23:04:13+02:00</updated>
     <author>
         <name>gitarafreestyle</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://gitarafreestyle.github.io/gitarowe-abc.html"/>
         <id>https://gitarafreestyle.github.io/gitarowe-abc.html</id>
 
-        <updated>2019-08-05T22:52:32+02:00</updated>
+        <updated>2019-08-05T23:03:11+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gitarafreestyle.github.io/media/posts/4/gitarowe-abc.jpg" alt="" />
@@ -34,7 +34,7 @@
 // You can place JavaScript like this
 
 haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
-if (haslo != "5lT7i")
+if (haslo != "bRF1GDL5OopRTbWwO5tG")
 {
 alert("Niepoprawne hasło")
 location.href='https://gitarafreestyle.github.io';
@@ -52,7 +52,7 @@ location.href='https://gitarafreestyle.github.io';
         <link href="https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html"/>
         <id>https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html</id>
 
-        <updated>2019-08-05T22:52:58+02:00</updated>
+        <updated>2019-08-05T23:03:31+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gitarafreestyle.github.io/media/posts/3/harmonijka3x2.jpg" alt="" />
@@ -69,7 +69,7 @@ location.href='https://gitarafreestyle.github.io';
 // You can place JavaScript like this
 
 haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
-if (haslo != "5lT7i")
+if (haslo != "bRF1GDL5OopRTbWwO5tG")
 {
 alert("Niepoprawne hasło")
 location.href='https://gitarafreestyle.github.io';
@@ -87,7 +87,7 @@ location.href='https://gitarafreestyle.github.io';
         <link href="https://gitarafreestyle.github.io/pierwszy-post.html"/>
         <id>https://gitarafreestyle.github.io/pierwszy-post.html</id>
 
-        <updated>2019-08-05T22:16:23+02:00</updated>
+        <updated>2019-08-05T23:03:43+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gitarafreestyle.github.io/media/posts/1/shuffle640x427.jpg" alt="" />
@@ -101,7 +101,7 @@ location.href='https://gitarafreestyle.github.io';
 // You can place JavaScript like this
 
 haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
-if (haslo != "5lT7i")
+if (haslo != "bRF1GDL5OopRTbWwO5tG")
 {
 alert("Niepoprawne hasło")
 location.href='https://gitarafreestyle.github.io';
