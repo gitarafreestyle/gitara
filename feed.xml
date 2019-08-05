@@ -3,12 +3,47 @@
     <title>GITARA &amp; FreeSTYLE</title>
     <link href="https://gitarafreestyle.github.io/feed.xml" rel="self" />
     <link href="https://gitarafreestyle.github.io" />
-    <updated>2019-08-03T17:32:45+02:00</updated>
+    <updated>2019-08-05T17:52:40+02:00</updated>
     <author>
         <name>Kamil Kołak</name>
     </author>
     <id>https://gitarafreestyle.github.io</id>
 
+    <entry>
+        <title>Podstawy harmonijki ustnej</title>
+        <author>
+            <name>Kamil Kołak</name>
+        </author>
+        <link href="https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html"/>
+        <id>https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html</id>
+
+        <updated>2019-08-05T17:52:31+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gitarafreestyle.github.io/media/posts/3/harmonijka3x2.jpg" alt="" />
+                    <p> </p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gitarafreestyle.github.io/media/posts/3/harmonijka3x2.jpg" alt="" />
+                <p> </p>
+
+<script language="javascript" type="text/javascript">// <![CDATA[
+// You can place JavaScript like this
+
+haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
+if (haslo != "shu#100")
+{
+alert("Niepoprawne hasło")
+location.href='https://gitarafreestyle.github.io';
+}
+// ]]></script>
+<a href="https://gitarafreestyle.github.io/media/files/Harmonijka_Ustna_Blues.pdf">Książka</a>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rytm shuffle</title>
         <author>
