@@ -3,7 +3,7 @@
     <title>GITARA &amp; FreeSTYLE</title>
     <link href="https://gitarafreestyle.github.io/feed.xml" rel="self" />
     <link href="https://gitarafreestyle.github.io" />
-    <updated>2019-08-05T22:33:28+02:00</updated>
+    <updated>2019-08-05T22:44:01+02:00</updated>
     <author>
         <name>gitarafreestyle</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://gitarafreestyle.github.io/gitarowe-abc.html"/>
         <id>https://gitarafreestyle.github.io/gitarowe-abc.html</id>
 
-        <updated>2019-08-05T22:33:19+02:00</updated>
+        <updated>2019-08-05T22:43:17+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gitarafreestyle.github.io/media/posts/4/gitarowe-abc.jpg" alt="" />
@@ -31,11 +31,10 @@
                 <p> </p>
 
 <script language="javascript" type="text/javascript">// <![CDATA[
-<br>// <![CDATA[
 // You can place JavaScript like this
 
 haslo = prompt("Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:");
-if (haslo != "5lT7i" OR haslo != "play")
+if (haslo != "5lT7i") 
 {
 alert("Niepoprawne hasło")
 location.href='https://gitarafreestyle.github.io';
@@ -53,7 +52,7 @@ location.href='https://gitarafreestyle.github.io';
         <link href="https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html"/>
         <id>https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html</id>
 
-        <updated>2019-08-05T22:17:16+02:00</updated>
+        <updated>2019-08-05T22:34:53+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gitarafreestyle.github.io/media/posts/3/harmonijka3x2.jpg" alt="" />
