@@ -6,7 +6,7 @@
     "feed_url": "https://gitarafreestyle.github.io/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Kamil Kołak"
+        "name": "gitarafreestyle"
     },
     "items": [
         {
@@ -17,12 +17,12 @@
             "content_html": "<p> </p>\n\n<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"shu#100\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<a href=\"https://gitarafreestyle.github.io/Harmonijka_Ustna_Blues.pdf\">Książka</a>",
             "image": "https://gitarafreestyle.github.io/media/posts/3/harmonijka3x2.jpg",
             "author": {
-                "name": "Kamil Kołak"
+                "name": "gitarafreestyle"
             },
             "tags": [
             ],
             "date_published": "2019-08-05T16:15:06+02:00",
-            "date_modified": "2019-08-05T18:05:37+02:00"
+            "date_modified": "2019-08-05T18:20:36+02:00"
         },
         {
             "id": "https://gitarafreestyle.github.io/pierwszy-post.html",
@@ -32,7 +32,7 @@
             "content_html": "<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"shu#100\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<p> Przykład 12 taktowego bluesa</p>\n<h2 id=\"mcetoc_1dfef7coi0\"><strong>||: A | D | A | A | D | D | A | A | E | D | A | A (E) :||</strong></h2>\n<p> </p>\n<p>Podkład mp3</p>\n<p> </p>\n<figure class=\"post__adui\"><audio controls=\"controls\" src=\"C:\\Users\\Dell\\Music\\zdrowa-woda_demo.mp3\" ></audio></figure>",
             "image": "https://gitarafreestyle.github.io/media/posts/1/shuffle640x427.jpg",
             "author": {
-                "name": "Kamil Kołak"
+                "name": "gitarafreestyle"
             },
             "tags": [
             ],
