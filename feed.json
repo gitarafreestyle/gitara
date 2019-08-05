@@ -14,7 +14,7 @@
             "url": "https://gitarafreestyle.github.io/gitarowe-abc.html",
             "title": "Gitarowe ABC",
             "summary": "<p> </p>\n",
-            "content_html": "<p> </p>\n\n<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"5lT7i\") \n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<p><a href=\"https://gitarafreestyle.github.io/Gitarowe-ABC.pdf\">Książka</a></p>",
+            "content_html": "<p> </p>\n\n<script language=\"javascript\" type=\"text/javascript\">// <![CDATA[\n// You can place JavaScript like this\n\nhaslo = prompt(\"Dostęp do tej zawartości możliwy jest wyłącznie po wpisaniu hasła:\");\nif (haslo != \"5lT7i\")\n{\nalert(\"Niepoprawne hasło\")\nlocation.href='https://gitarafreestyle.github.io';\n}\n// ]]></script>\n<p><a href=\"https://gitarafreestyle.github.io/Gitarowe-ABC.pdf\">Książka</a></p>",
             "image": "https://gitarafreestyle.github.io/media/posts/4/gitarowe-abc.jpg",
             "author": {
                 "name": "gitarafreestyle"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-08-05T18:57:16+02:00",
-            "date_modified": "2019-08-05T22:43:17+02:00"
+            "date_modified": "2019-08-05T22:45:12+02:00"
         },
         {
             "id": "https://gitarafreestyle.github.io/podstawy-harmonijki-ustnej.html",
